@@ -196,6 +196,3 @@ Layer 4: Data (Encryption, Access Control)
 
 ---
 
-## Start
-
-Bolo **“Microservices Security Part 1 start karo”** — `docs/01-architecture-overview.md` se shuru.
